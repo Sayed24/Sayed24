@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sayed24
 - 👀 I’m interested in React (Work as a React JS developer)
-- 🌱 I’m currently looking for job ... Open to work
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Open to work
 - 📫 How to reach me ... You can Reach me at (9163465380 or SadatSayed92@gmail.com)
 
 <!---
