@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sayed24
+- 👋 Hi, I’m Sayed
 - 👀 I’m interested in React (Work as a React JS developer)
 - 🌱 Open to work
 - 📫 How to reach me ... You can Reach me at (9163465380 or SadatSayed92@gmail.com)
