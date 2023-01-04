@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Sayed
 - 👀 I’m interested in React (Work as a React JS developer)
+- I'm currently working on Shopify Projects
+- Ask me about Shopify Store Setup
 - 🌱 Open to work
 - 📫 How to reach me ... You can Reach me at (9163465380 or SadatSayed92@gmail.com)
 
