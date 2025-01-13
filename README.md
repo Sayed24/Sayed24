@@ -6,13 +6,14 @@ Welcome to my GitHub profile! I'm a passionate **Web Designer and Developer** wi
 
 ## 👨‍💻 About Me
 
-- 🎓 **Bachelor’s Degree** in Computer Science.  
+- 🎓 **Bachelor’s Degree** in Computer Science from **Herat University** (2016).  
 - 🖥️ Freelance **Web Designer/Developer** since **May 2021**, working on diverse projects across industries.  
 - 🌟 **Certified** in Full Stack Web & Mobile Development, JavaScript, and other modern technologies.  
 - 🌐 Proficient in:  
   - **Frontend:** HTML5, CSS3, JavaScript, React, Bootstrap.  
-  - **Backend:** CMS (WordPress, Shopify), SEO Optimization.  
-  - **Design:** UI/UX principles, user-friendly interfaces.  
+  - **Backend:** Node.js, Express, MongoDB, SQL, CMS (WordPress, Shopify).  
+  - **Design:** Responsive design, UI/UX principles, Figma.  
+  - **Optimization:** SEO best practices and web performance tuning.  
 
 ---
 
@@ -37,15 +38,16 @@ As a **community-focused volunteer interpreter/translator**, I assist individual
 
 Looking to build something impactful together? Let’s create cutting-edge digital experiences that stand out.  
 
-📫 Reach me at SadatSR57@gmail.com or connect with me on (https://www.linkedin.com/in/sadatsayed/).   
+📫 Reach me at **[SadatSR57@gmail.com]** or connect with me on [LinkedIn](https://www.linkedin.com/in/sadatsayed/).  
 
 ---
 
 ## 🛠️ Projects in the Works
 
 Stay tuned for exciting updates on:  
-- Innovative web designs.
-- Responsive and SEO-friendly interfaces.
+- Innovative web designs.  
+- Responsive and SEO-friendly interfaces.  
+- Full-stack web applications powered by **Node.js**, **Express**, and **MongoDB**.  
 - Tools to empower communities.
 
 ---
