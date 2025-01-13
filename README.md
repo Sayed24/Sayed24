@@ -37,7 +37,7 @@ As a **community-focused volunteer interpreter/translator**, I assist individual
 
 Looking to build something impactful together? Let’s create cutting-edge digital experiences that stand out.  
 
-📫 Reach me at SadatSR57@gmail.com or connect with me on (https://www.linkedin.com/in/sadatsayed/).   
+📫 Reach me at ** SadatSR57@gmail.com ** or connect with me on (https://www.linkedin.com/in/sadatsayed/).   
 
 ---
 
