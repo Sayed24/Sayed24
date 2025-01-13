@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Designer and Developer** wi
 
 ## 👨‍💻 About Me
 
-- 🎓 **Bachelor’s Degree** in Computer Science from **Herat University** (2016).  
+- 🎓 **Bachelor’s Degree** in Computer Science.  
 - 🖥️ Freelance **Web Designer/Developer** since **May 2021**, working on diverse projects across industries.  
 - 🌟 **Certified** in Full Stack Web & Mobile Development, JavaScript, and other modern technologies.  
 - 🌐 Proficient in:  
