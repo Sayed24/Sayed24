@@ -19,12 +19,8 @@ Welcome to my GitHub profile! I'm a passionate **Web Designer and Developer** wi
 
 ## 📈 My Journey
 
-- **Freelance Web Developer**: Successfully executed projects like:
-  - **Nashville Apartments**: A real estate platform with seamless UI/UX.  
-  - **SmartHires**: Optimized for job seekers and recruiters.  
-  - **Bravo Protection Security Services**: Tailored security solutions website.  
-- **Scholars Playground** (Jan 2021 – May 2021):  
-  Enhanced user experiences and developed innovative web solutions with React.
+  Freelance Web Developer
+Delivered multiple web development projects across real estate, recruitment, security services, and education sectors. Designed and built responsive, user-friendly interfaces with a focus on seamless UI/UX and performance optimization. Developed modern web applications using React, enhancing user experience and implementing innovative front-end solutions.
 
 ---
 
